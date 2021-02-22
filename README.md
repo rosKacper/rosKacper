@@ -2,6 +2,7 @@
   Hi! I am Kacper Rosiak
 </h1>
 
+<br>
 
 ## About me
 
@@ -38,4 +39,4 @@
 
 ## Language stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roskacper)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosKacper)](https://github.com/anuraghazra/github-readme-stats)
