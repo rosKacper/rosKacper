@@ -37,6 +37,4 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 ![Trello](https://img.shields.io/badge/Trello-3776AB?style=flat-square&logo=Trello&color=blue)
 
-## Language stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosKacper)](https://github.com/anuraghazra/github-readme-stats)
