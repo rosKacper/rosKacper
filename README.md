@@ -8,7 +8,7 @@
 
 - University: **3rd year of Computer Science at AGH University of Science and Technology**
 
-- I am currently learning: ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+- I am currently learning: 
 
 - I am currently working on:
 
