@@ -8,7 +8,7 @@
 
 - University: **3rd year of Computer Science at AGH University of Science and Technology**
 
-- I am currently learning: 
+- I am currently learning: ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 - I am currently working on:
 
